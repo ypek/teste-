@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/ruby-%3E%3D2.1.0-blue.svg" />
   <img src="https://img.shields.io/badge/cucumber-%3E%3D9.3.0-blue.svg" />
-  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
+  <a href="https://github.com/ypek" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   <a href="https://github.com/ypek" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/Ypek/Teste Readme Compass" />
