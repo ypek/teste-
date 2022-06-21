@@ -13,7 +13,6 @@
   </a>
 </p>
 
-> CLI that generates beautiful README.md files.
 
 ### 🏠 [Homepage](https://github.com/ypek)
 
