@@ -23,8 +23,26 @@
 
 ## Prerequisites
 
-- Ruby >=3.1.2
-- Cucumber
+- npm >=5.5.0
+- node >=9.3.0
+
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
+## Run tests
+
+```sh
+npm run test
+```
 
 ## Author
 
