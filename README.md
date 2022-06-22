@@ -50,4 +50,4 @@ Deixe uma ⭐️ neste projeto para me ajudar 😁!
 Copyright © 2022 [Daniel Merib](https://github.com/Ypek).<br />
 
 ***
-_This README was generated with ❤️ by Daniel Merib_
+_This README was made with ❤️ by Daniel Merib_
